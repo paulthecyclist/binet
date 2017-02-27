@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextFib", "NextFib\NextFib.csproj", "{42B58151-F815-4E06-82C4-C4567E3EC20A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextFib.Tests", "NextFib.Tests\NextFib.Tests.csproj", "{2E783728-3F10-4646-94E0-6701BDF478AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibCalculator", "FibCalculator\FibCalculator.csproj", "{1A2CD620-C6DB-4439-B007-9701FD174670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B58151-F815-4E06-82C4-C4567E3EC20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B58151-F815-4E06-82C4-C4567E3EC20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B58151-F815-4E06-82C4-C4567E3EC20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B58151-F815-4E06-82C4-C4567E3EC20A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E783728-3F10-4646-94E0-6701BDF478AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E783728-3F10-4646-94E0-6701BDF478AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E783728-3F10-4646-94E0-6701BDF478AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E783728-3F10-4646-94E0-6701BDF478AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2CD620-C6DB-4439-B007-9701FD174670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2CD620-C6DB-4439-B007-9701FD174670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2CD620-C6DB-4439-B007-9701FD174670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2CD620-C6DB-4439-B007-9701FD174670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
